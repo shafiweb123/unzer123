@@ -9,7 +9,7 @@ pipeline {
  stages {
      stage('checkout') {
 	steps {
-               git 'https://github.com/shafiwebsphere/U1.git'
+               git 'https://github.com/shafiweb123/unzer123.git'
              }
            }
      stage('Setup') {
