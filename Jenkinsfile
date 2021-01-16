@@ -1,3 +1,5 @@
+#script
+
 pipeline {
   
   parameters {
